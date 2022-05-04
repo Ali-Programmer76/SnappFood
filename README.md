@@ -1,2 +1,2 @@
 # SnappFood
-Online food ordering project
+SnappFood.com
