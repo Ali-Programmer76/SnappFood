@@ -1,2 +1,2 @@
-# Snapp_Food
+# SnappFood
 Online food ordering project
